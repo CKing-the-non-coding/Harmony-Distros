@@ -2,4 +2,6 @@
 > [!NOTE]
 > To add your own distro here, start a pull request
 
-Base Harmony
+<a href="./README.md">
+<img src="assets/HarmonyBanner.svg">
+</a>
