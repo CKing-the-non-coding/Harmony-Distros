@@ -5,3 +5,7 @@
 <a href="./README.md">
 <img src="assets/HarmonyBanner.svg">
 </a>
+
+<a href="./md/symphony.md">
+<img src="assets/HarmonyBanner.svg">
+</a>
